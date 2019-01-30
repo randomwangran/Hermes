@@ -1,5 +1,5 @@
 Hermes
-===
+======
 
 A multiuser text editor written in C++ using ncurses library.
 
